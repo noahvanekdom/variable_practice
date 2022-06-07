@@ -7,3 +7,6 @@ locations = 9
 heightm = 5.6
 ground_coverm = 49.2
 preferred_ph = 6.72
+multiple = true
+requires_fertilizer = true
+bee_friendly = false
