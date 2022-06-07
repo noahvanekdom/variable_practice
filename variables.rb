@@ -4,3 +4,6 @@ soil = "volcanic"
 age = 36
 type = 3
 locations = 9
+heightm = 5.6
+ground_coverm = 49.2
+preferred_ph = 6.72
